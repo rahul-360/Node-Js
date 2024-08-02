@@ -23,3 +23,6 @@ app.get('/about', (req, res) => {
 app.listen(3000, () => {
     console.log("server is live");
 });
+
+// const os = require("os");
+// console.log(os.cpus().length);
