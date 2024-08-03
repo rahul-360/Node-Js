@@ -1,7 +1,7 @@
 {
   "name": "node-js-tutorials",
   "version": "1.0.0",
-  "main": "hello.js",
+  "main": "index.js",
   "dependencies": {
     "accepts": "^1.3.8",
     "anymatch": "^3.1.3",
